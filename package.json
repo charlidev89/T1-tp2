@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "01-tp-manejo-de-archivos",
+  "version": "1.0.0",
+  "description": "Práctica de manejo de archivos y arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": ["archivos", "arrays", "node"],
+  "author": "",
+  "license": "ISC"
+
+}
